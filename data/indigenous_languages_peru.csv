@@ -1,0 +1,49 @@
+language_id,language_name,language_type,language_family,peoples_speaking_language,iso
+PE_01,Achuar,Amazónica,Jíbaro,Achuar; Jíbaro,acu
+PE_02,Aimara,Andina,Aru,Aimara,ayc; ays
+PE_03,Amahuaca,Amazónica,Pano,Amahuaca,amc
+PE_04,Arabela,Amazónica,Záparo,Arabela,arl
+PE_05,Ashaninka,Amazónica,Arawak,Ashaninka,cni; prq
+PE_06,Asheninka,Amazónica,Arawak,Asheninka,cpc; cjo; cpy; cpb; cpu
+PE_07,Awajún,Amazónica,Jíbaro,Awajún,agr
+PE_08,Bora,Amazónica,Bora,Bora,boa
+PE_09,Cashinahua,Amazónica,Pano,Cashinahua,cbs
+PE_10,Chamikuro,Amazónica,Arawak,Chamicuro,ccc
+PE_11,Ese eja,Amazónica,Tacana,Ese Eja,ese
+PE_12,Harakbut,Amazónica,Harakbut,Harakbut,amr; hug
+PE_13,Ikitu,Amazónica,Záparo,Ikitu,inp
+PE_14,Iñapari,Amazónica,Arawak,Iñapari,inp
+PE_15,Iskonawa,Amazónica,Pano,Iskonawa,isc
+PE_16,Jaqaru,Andina,Aru,Jaqaru,jqr
+PE_17,Kakataibo,Amazónica,Pano,Kakataibo,cbr
+PE_18,Kakinte,Amazónica,Arawak,Kakinte,cot
+PE_19,Kandozi-Chapra,Amazónica,Kandozi,Kandozi; Chapra,cbu
+PE_20,Kapanawa,Amazónica,Pano,Kapanawa,kaq
+PE_21,Kawki,Andina,Aru,Kawki,jqr
+PE_22,Kukama Kukamiria,Amazónica,Tupí-guaraní,Kukama Kukamiria,cod
+PE_23,Madija,Amazónica,Arawak,Madija,cul
+PE_24,Maijɨki,Amazónica,Tucano,Maijuna,ore
+PE_25,Matsés,Amazónica,Pano,Matsés,mcf
+PE_26,Matsigenka,Amazónica,Arawak,Matsigenka,mcb
+PE_27,Matsigenka Montetokunirira,Amazónica,Arawak,Nanti,cox
+PE_28,Munichi,Amazónica,Muniche,Muniche,myr
+PE_29,Murui-Muinanɨ,Amazónica,Huitoto,Murui-Muinanɨ,hux; huu
+PE_30,Nahua,Amazónica,Pano,Nahua,mts
+PE_31,Nomatsigenga,Amazónica,Arawak,Nomatsigenga,not
+PE_32,Ocaina,Amazónica,Huitoto,Ocaina,oca
+PE_33,Omagua,Amazónica,Tupí-guaraní,Omagua,omg
+PE_34,Quechua,Andina,Quechua,Kichwa; Quechuas,que
+PE_35,Resígaro,Amazónica,Arawak,Resígaro,rgr
+PE_36,Secoya,Amazónica,Tucano,Secoya,sey
+PE_37,Sharanahua,Amazónica,Pano,Marinahua; Mastanahua; Sharanahua,mcd
+PE_38,Shawi,Amazónica,Cahuapana,Shawi,cbt
+PE_39,Shipibo-Konibo,Amazónica,Pano,Shipibo-Konibo,shp
+PE_40,Shiwilu,Amazónica,Cahuapana,Shiwilu,jeb
+PE_41,Taushiro,Amazónica,Záparo,NA,trr
+PE_42,Ticuna,Amazónica,Tikuna,Ticuna,tca
+PE_43,Urarina,Amazónica,Shimaco,Urarina,ura
+PE_44,Wampis,Amazónica,Jíbaro,Wampis,hub
+PE_45,Yagua,Amazónica,Peba-yagua,Yagua,yad
+PE_46,Yaminahua,Amazónica,Pano,Chitonahua; Yaminahua,yaa
+PE_47,Yanesha,Amazónica,Arawak,Yanesha,ame
+PE_48,Yine,Amazónica,Arawak,Mashco Piro; Yine,pib; mpd; cuj

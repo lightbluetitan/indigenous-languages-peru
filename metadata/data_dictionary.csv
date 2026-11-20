@@ -1,0 +1,7 @@
+variable_name,data_type,description,example
+language_id,Character,Alphanumeric identifier for each language record (Format: PE_01 to PE_48).,PE_01
+language_name,Character,Official name of the indigenous or native language in Spanish.,Achuar
+language_type,Character,Broad classification of the language (Amazónica or Andina).,Amazónica
+language_family,Character,Linguistic family associated with the language.,Jíbaro
+peoples_speaking_language,Character,Indigenous peoples associated with / speaking the language (semicolon-separated when multiple; NA for PE_41 Taushiro).,Achuar; Jíbaro
+iso,Character,Three-letter ISO language code(s) associated with the language (semicolon-separated when multiple).,acu
