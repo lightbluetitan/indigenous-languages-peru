@@ -1,5 +1,7 @@
 # Indigenous Languages of Peru: A Curated Dataset of Language Types, Families, ISO Codes, and Speaking Peoples
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24384090.svg)](https://doi.org/10.5281/zenodo.24384090)
+
 ## Description
 
 This **curated dataset** provides a structured and verified reference of the **48 indigenous or native languages of Peru** (44 Amazonian and 4 Andean across 18 linguistic families), documenting their language type, linguistic family, associated indigenous peoples, and ISO language codes.
